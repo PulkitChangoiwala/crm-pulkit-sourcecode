@@ -9,5 +9,5 @@ Customer mangement tool for an enterprise to track orders from customers and mai
 ```
 Enterprise Owner Window
 ```
-![Image of Yaktocat](https://github.com/PulkitChangoiwala/ProjectPhotos/blob/master/admin1.JPG)
+![Image of Admin](https://github.com/PulkitChangoiwala/ProjectPhotos/blob/master/admin1.JPG)
 
