@@ -2,7 +2,11 @@
 
 ## Description
 
-Customer mangement tool for an enterprise to track orders from customers and maintain inventory. It also enables customers to remain updated on status of the order.               Using : Django Framework. {Python, HTML, CSS, JS}
+Customer mangement tool for an enterprise to track orders from customers and maintain inventory. It also enables customers to remain updated on status of the order.              Using : Django Framework. {Python, HTML, CSS, JS}
+
+
+### Live Demo
+[Live Demo](https://customer-management-pulkit.herokuapp.com/)
 
 ### Portal Images
 
