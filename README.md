@@ -6,7 +6,7 @@ Customer mangement tool for an enterprise to track orders from customers and mai
 
 
 ### Live Demo
-[Live Demo](https://customer-management-pulkit.herokuapp.com/)
+[Click Here](https://customer-management-pulkit.herokuapp.com/)
 
 ### Portal Images
 
