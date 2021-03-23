@@ -11,25 +11,25 @@ Customer mangement tool for an enterprise to track orders from customers and mai
 ### Portal Images
 
 ```
-Enterprise Owner Window
+Enterprise Owner Window:
 ```
 ![Image of Admin](https://github.com/PulkitChangoiwala/ProjectPhotos/blob/master/admin1.JPG)
 
 
 ```
-Enterprise Managing Orders
+Enterprise Managing Orders:
 ```
 ![Image of Admin](https://github.com/PulkitChangoiwala/ProjectPhotos/blob/master/viewcustomer.JPG)
 
 
 ```
-Customer's Home Window
+Customer's Home Window:
 ```
 ![Image of customer](https://github.com/PulkitChangoiwala/ProjectPhotos/blob/master/userpage.JPG)
 
 
 ```
-Userprofile Page
+Userprofile Page:
 ```
 ![Image of customer]( https://github.com/PulkitChangoiwala/ProjectPhotos/blob/master/userprofile.JPG)
 
